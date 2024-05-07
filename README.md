@@ -45,7 +45,7 @@ Este projeto é uma aplicação web que utiliza a biblioteca Dash para visualiza
    pip install -r requirements.txt
    ```
 
-7. Execute o arquivo app.py para iniciar a aplicação:
+7. Execute o arquivo myindex.py para iniciar a aplicação:
    
     ```
     python app/myindex.py
